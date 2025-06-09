@@ -7,8 +7,6 @@ import threading
 import copy
 
 
-
-
 # Define RSS feed URLs
 BLOOMBERG_RSS_FEED_URL = "https://news.google.com/rss/search?q=when:24h+allinurl:bloomberg.com&hl=en-US&gl=US&ceid=US:en"
 DOWJONES_RSS_FEED_URL = "https://feeds.content.dowjones.io/public/rss/mw_topstories"
